@@ -9,7 +9,6 @@ const TableDisplay = ({ data, columns }) => {
       </div>
     );
   }
-
   return (
     <motion.div 
       className="rounded-lg border border-border bg-card overflow-hidden"

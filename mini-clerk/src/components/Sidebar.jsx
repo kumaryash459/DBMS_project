@@ -12,7 +12,7 @@ const Sidebar = ({ isOpen, queryHistory, onSelectQuery }) => {
       <div className="p-4 border-b border-sidebar-border">
         <h2 className="font-semibold text-lg">History</h2>
       </div>
-      
+
       <ScrollArea className="h-[calc(100vh-8rem)]">
         <div className="p-4 space-y-2">
           {queryHistory.length > 0 ? (

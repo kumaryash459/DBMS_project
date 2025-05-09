@@ -22,6 +22,7 @@ const About = () => {
       role: 'Full Stack Developer',
       description: 'Expert in both frontend and backend development, bringing the entire application together seamlessly.',
       icon: Sparkles
+      
     },
     {
       name: 'Ramya',
